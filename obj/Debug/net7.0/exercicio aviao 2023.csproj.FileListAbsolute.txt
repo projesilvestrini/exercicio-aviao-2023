@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\exercicio aviao 2023\bin\Debug\net7.0\exercicio aviao 2023.exe
+C:\Users\LAB4\Downloads\exercicio aviao 2023\bin\Debug\net7.0\exercicio aviao 2023.deps.json
+C:\Users\LAB4\Downloads\exercicio aviao 2023\bin\Debug\net7.0\exercicio aviao 2023.runtimeconfig.json
+C:\Users\LAB4\Downloads\exercicio aviao 2023\bin\Debug\net7.0\exercicio aviao 2023.dll
+C:\Users\LAB4\Downloads\exercicio aviao 2023\bin\Debug\net7.0\exercicio aviao 2023.pdb
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.dll
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\refint\exercicio aviao 2023.dll
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.pdb
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\exercicio aviao 2023.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\exercicio aviao 2023\obj\Debug\net7.0\ref\exercicio aviao 2023.dll
